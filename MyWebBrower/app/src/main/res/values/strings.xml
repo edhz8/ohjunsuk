@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyWebBrower</string>
+    <string name="google_url">https://www.google.com</string>
+    <string name="naver_url">https://www.naver.com</string>
+    <string name="fmkorea_url">https://www.fmkorea.com</string>
+</resources>
